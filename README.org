@@ -1,0 +1,10 @@
+* cl-azure
+
+A Windows Azure cloud services library for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/RobBlackwell/cl-azure.git   |
+| commit  | 03b0972  |
+| systems | cl-azure |
+|---------+-------------------------------------------|
+
