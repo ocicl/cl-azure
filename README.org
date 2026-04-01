@@ -8,3 +8,4 @@ A Windows Azure cloud services library for Common Lisp
 | systems | cl-azure |
 |---------+-------------------------------------------|
 
+ 
